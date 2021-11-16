@@ -15,9 +15,9 @@ Baseline code for Under-Display-Camera problem
 
 TOLED results with UNet trained 400 epochs (Centercrop patches, 256*256)  and DE_UNet trained 400 epochs(same input)
 
-<a href="https://imgtu.com/i/IfEzm6"><img src="https://z3.ax1x.com/2021/11/16/IfEzm6.png" alt="IfEzm6.png" border="0"></a>
-<a href="https://imgtu.com/i/IfEj61"><img src="https://z3.ax1x.com/2021/11/16/IfEj61.png" alt="IfEj61.png" border="0"></a>
-<a href="https://imgtu.com/i/IfEvOx"><img src="https://z3.ax1x.com/2021/11/16/IfEvOx.png" alt="IfEvOx.png" border="0"></a>
+<a href="https://imgtu.com/i/IfEzm6"><img src="https://z3.ax1x.com/2021/11/16/IfEzm6.png" alt="IfEzm6.png" border="0" style="zoom:50%;" ></a>
+<a href="https://imgtu.com/i/IfEj61"><img src="https://z3.ax1x.com/2021/11/16/IfEj61.png" alt="IfEj61.png" border="0" style="zoom:50%;" ></a>
+<a href="https://imgtu.com/i/IfEvOx"><img src="https://z3.ax1x.com/2021/11/16/IfEvOx.png" alt="IfEvOx.png" border="0" style="zoom:50%;" ></a>
 
 #### Problems to be solved
 
