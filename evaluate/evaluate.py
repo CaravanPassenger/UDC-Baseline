@@ -43,6 +43,7 @@ def SSIM(intp_mat,gt_mat):
         sum_ssim+=ssim(input,gt, data_range=1, multichannel=True)
     return sum_ssim/len(intp_mat)
 
+
 if __name__=="__main__":
     device = torch.device('cuda:0')
     DE_model = torch.load(Option.DE_UNet_model_save_path)
